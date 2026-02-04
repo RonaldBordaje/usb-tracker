@@ -283,7 +283,7 @@ This project is for educational purposes only. See the [DISCLAIMER](#disclaimer)
 
 **Ronald Bordaje**  
 IT Student  
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: https://github.com/RonaldBordaje/usb-tracker/tree/main)
 
 ## 🙏 Acknowledgments
 
